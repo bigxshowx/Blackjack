@@ -25,3 +25,5 @@ print(testing)
 new_deck = Deck()
 
 print(len(new_deck.all_cards))
+
+#testing from mac
